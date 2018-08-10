@@ -5,7 +5,6 @@ import re
 from time import ctime
 import time
 from datetime import datetime
-#import os
 import webbrowser
 import math
 import subprocess
